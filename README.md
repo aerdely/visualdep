@@ -22,7 +22,7 @@
    ```julia
    include("2loadFunctions.jl")
    ```
-6. Generate de figures and calculations by executing the following command in the `Julia` terminal:
+6. Generate the figures and calculations by executing the following command in the `Julia` terminal:
    ```julia
    include("3generateFigures.jl")
    ```
