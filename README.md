@@ -18,7 +18,7 @@
    ```julia
    include("1installPackages.jl")
    ```
-5. Load the required Julia code by executing the following command in the `Julia` terminal:
+5. Load the required `Julia` code by executing the following command in the `Julia` terminal:
    ```julia
    include("2loadFunctions.jl")
    ```
