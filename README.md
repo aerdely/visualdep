@@ -26,4 +26,4 @@
    ```julia
    include("3generateFigures.jl")
    ```
-   Figure 3 takes several minutes, be patient. Don't worry about the warning messages from the data for figures 7 through 11.
+   *Figure 3 takes several minutes, be patient. Don't worry about the warning messages from the data for figures 7 through 11.*
