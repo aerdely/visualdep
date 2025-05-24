@@ -1,8 +1,8 @@
-# Visual analysis of bivariate dependence between continuous random variables
+# D-plots: Visualizations for Analysis of Bivariate Dependence Between Continuous Random Variables
 
 > Authors: Arturo Erdely & Manuel Rubio-Sánchez
 >
-> Preprint: [arXiv](https://arxiv.org/abs/2404.00820)
+> Paper: [Stats](https://www.mdpi.com/2571-905X/8/2/43)
 >
 > ### Instructions for reproducibility
 
